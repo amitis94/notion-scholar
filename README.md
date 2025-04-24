@@ -1,3 +1,7 @@
+# KOR reference
+
+https://jjuke-brain.tistory.com/entry/Notion%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EC%9D%80%EC%9D%BD%EC%96%B4%EB%B3%BC-%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC-%EB%B0%8F-reference-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0
+
 # notion-scholar
 
 Reference management solution using Python and Notion.
